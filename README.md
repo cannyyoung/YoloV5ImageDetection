@@ -9,7 +9,7 @@ https://www.youtube.com/watch?v=ezjnySXqdTo
 
 This is using YOLOv5 model, but it has become antiquated and you may want to use the most recent YOLO model instead. 
 
-Each folder contains a jupyter notebook file using each model. The train_data directory contains all of the labels used for this project. I have not uploaded the images as I'm not the owner of those images. 
+Each folder titled Yolo... contains a jupyter notebook file using each model. The train_data directory contains all of the labels used for this project. I have not uploaded the images as I'm not the owner of those images. Best_Results contains the best results I had obtained after training and you can use this model if you wish. Details on how to use these files are listed below
 
 ## Using the best.pt Output of YOLOv5
 
