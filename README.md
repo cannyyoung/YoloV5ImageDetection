@@ -1,4 +1,14 @@
 # YoloV5ImageDetection
+## Overview
+This is a github repository of imagedetection algorithm using YOLOv5.
+
+For details on how to use the files in this repository please check out this code:
+https://colab.research.google.com/github/ultralytics/yolov5/blob/master/tutorial.ipynb
+You may also want to check out on youtube videos like this:
+https://www.youtube.com/watch?v=ezjnySXqdTo
+
+This is using YOLOv5 model, but it has become antiquated and you may want to use the most recent YOLO model instead. 
+
 ## Using the best.pt Output of YOLOv5
 
 In this section, we will guide you on how to use the best.pt output from the YOLOv5 model for object detection.
