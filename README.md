@@ -9,6 +9,8 @@ https://www.youtube.com/watch?v=ezjnySXqdTo
 
 This is using YOLOv5 model, but it has become antiquated and you may want to use the most recent YOLO model instead. 
 
+Each folder contains a jupyter notebook file using each model. The train_data directory contains all of the labels used for this project. I have not uploaded the images as I'm not the owner of those images. 
+
 ## Using the best.pt Output of YOLOv5
 
 In this section, we will guide you on how to use the best.pt output from the YOLOv5 model for object detection.
